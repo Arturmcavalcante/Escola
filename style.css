@@ -1,0 +1,28 @@
+*{
+    margin: 10px;
+}
+body{
+    background-color: #1C1C1C;
+}
+div{
+    background-color: #5C4033;
+    border-radius: 20px;
+    height: 125px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+div h1{
+    font-size: 40px;
+    color: #D2B48C;
+}
+div h2{
+    font-size: 15px;
+    color: #A9A9A9;
+}
+.segunda-div{
+    background-color: #3E4738;
+}
+.segunda-div h2{
+    font-size: 30px;
+}
