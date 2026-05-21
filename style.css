@@ -4,25 +4,33 @@
 body{
     background-color: #1C1C1C;
 }
-div{
+section{
     background-color: #5C4033;
     border-radius: 20px;
-    height: 125px;
+    height: 140px;
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
-div h1{
+section h1{
     font-size: 40px;
     color: #D2B48C;
+    margin-top: -15px;
 }
-div h2{
-    font-size: 15px;
+.nome{
+    font-size: 20px;
     color: #A9A9A9;
+    margin-top: 20px;
 }
-.segunda-div{
+.s1{
     background-color: #3E4738;
+    height: 175px;
 }
-.segunda-div h2{
+.s1 h2{
+    color: #AEB8A4;
     font-size: 30px;
+    margin-top: -40px;
+}
+.s1 p{
+    font-size: 20px;
 }
