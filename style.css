@@ -7,30 +7,17 @@ body{
 section{
     background-color: #5C4033;
     border-radius: 20px;
-    height: 140px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    height: 100px;
+    padding: 20px;
 }
-section h1{
+h1{
     font-size: 40px;
     color: #D2B48C;
-    margin-top: -15px;
+    margin-left: 25px;
+   
 }
 .nome{
     font-size: 20px;
     color: #A9A9A9;
-    margin-top: 20px;
-}
-.s1{
-    background-color: #3E4738;
-    height: 175px;
-}
-.s1 h2{
-    color: #AEB8A4;
-    font-size: 30px;
-    margin-top: -40px;
-}
-.s1 p{
-    font-size: 20px;
+    margin-left: 25px;
 }
