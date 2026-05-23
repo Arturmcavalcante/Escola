@@ -39,6 +39,13 @@ p{
    padding: 10px;
    margin-left: 10px;
 }
+.livros{
+    background-color: #5A4034;
+    border-radius: 20px;
+    padding: 10px;
+    margin-left: 10px;
+    margin-top: 15px;
+}
 footer{
     color: #A9A9A9;
     font-size: 13px;
