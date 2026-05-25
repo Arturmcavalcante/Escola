@@ -12,8 +12,8 @@ body{
     padding: 10px;
 }
 h1{
-    font-size: 30px;
-    color: #D2B48C;    
+    font-size: 33px;
+    color: #D2B48C;
 }
 .nome{
     font-size: 15px;
@@ -28,9 +28,14 @@ h1{
     height: 120px;
     margin-left: 10px;
     border-radius: 20px;
+    font-size: 16px;
+}
+h2{
+    font-size: 26px;
 }
 p{
-    line-height: 22px;
+    line-height: 25px;
+    font-family: georgia, serif;
 }
 .curiosidades{
    height: 210px;
@@ -38,6 +43,8 @@ p{
    border-radius: 20px;
    padding: 10px;
    margin-left: 10px;
+   font-size: 17px;
+   font-family: georgia, serif;
 }
 .livros{
     background-color: #5A4034;
@@ -45,6 +52,8 @@ p{
     padding: 10px;
     margin-left: 10px;
     margin-top: 15px;
+    font-size: 17px;
+    font-family: georgia, serif;
 }
 footer{
     color: #A9A9A9;
