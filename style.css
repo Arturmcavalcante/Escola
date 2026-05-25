@@ -3,11 +3,15 @@
 }
 body{
     background-color: #1C1C1C;
+    width: 95%;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .sherlock{
     background-color: #4B5335;
     border-radius: 20px;
-    height: 100px;
+    height: auto;
     margin-left: 10px;
     padding: 10px;
 }
@@ -25,7 +29,7 @@ h1{
     background-color: #5A4034;
     margin-top: 15px;
     padding: 5px;
-    height: 120px;
+    height: auto;
     margin-left: 10px;
     border-radius: 20px;
     font-size: 16px;
@@ -38,7 +42,7 @@ p{
     font-family: georgia, serif;
 }
 .curiosidades{
-   height: 210px;
+   height: auto;
    background-color: #5A4034;
    border-radius: 20px;
    padding: 10px;
@@ -54,6 +58,7 @@ p{
     margin-top: 15px;
     font-size: 17px;
     font-family: georgia, serif;
+    height: auto;
 }
 footer{
     color: #A9A9A9;
